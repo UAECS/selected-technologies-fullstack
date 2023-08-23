@@ -1,2 +1,2 @@
-# technologies-fullstack
-List of Technologies &amp; Resources for Full-Stack
+# List of the Selected Technologies &amp; Resources for Full-Stack
+
