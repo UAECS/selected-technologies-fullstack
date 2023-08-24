@@ -3,6 +3,7 @@
 - [Dynamic Forms](#dynamic-forms)
 - [Graphics](#graphics)
 - [Package Managers](#package-managers)
+- [Serverless Data Platforms](#serverless-data-platforms)
 ## Dynamic Forms <a name="dynamic-forms"></a>
 - [Paperform](https://paperform.co/): Paperform’s unmatched flexibility empowers you to create dynamic forms, eSignatures, surveys, bookings, payments & more. All in one place. Paperform is your digital Swiss Army Knife.
 ## Graphics <a name="graphics"></a>
@@ -34,3 +35,6 @@
 Despite its benefits, `pnpm` isn't as widely adopted as `npm` or `yarn`. If you're considering using it, you should ensure that your projects and any tooling you rely on are compatible with `pnpm`. 
 
 If you're looking for more efficient disk usage, stricter dependency resolution, and potentially faster installations, then `pnpm` might be worth a try.
+## Serverless Data Pltforms <a name="serverless-data-platforms"></a>
+- [upstash](https://upstash.com/): Serverless Data Platform
+- [PlanetScale](https://planetscale.com/): is the world’s most advanced serverless MySQL platform
